@@ -2,7 +2,7 @@
 
 ## 简介
 在涉及[HTTP](http://book.crifan.com/books/http_summary/website)方面的后台[REST API](http://book.crifan.com/books/http_restful_api/website)开发时，往往会需要调试API接口。
-这方面有很多工具，其中最好用的算是接下来要介绍的**Postman**了。
+这方面有很多工具，其中最好用的算是接下来要介绍的[**Postman**](https://www.getpostman.com/postman)了。
 
 ## 源码+浏览+下载
 本书的各种源码、在线浏览地址、多种格式文件下载如下：

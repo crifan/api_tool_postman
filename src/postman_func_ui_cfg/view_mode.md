@@ -8,6 +8,6 @@ Postman的默认的Request和Response是上下布局：
 
 ![Postman换成左右布局](../assets/img/postman_change_to_two_pane_view.png)
 
-> **[info] 左右布局的用途**
+> #### info::左右布局的用途
 >
 > 对于数据量很大，又想要同时看到请求和返回的数据的时候，应该比较有用。

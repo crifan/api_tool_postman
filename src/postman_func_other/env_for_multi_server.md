@@ -67,7 +67,7 @@
 
 ![Postman保存Enviroment](../assets/img/postman_save_environment.png)
 
-> **[info] 环境变量可以使用的地方**
+> #### info::环境变量可以使用的地方
 > * URL
 > * URL params
 > * Header values

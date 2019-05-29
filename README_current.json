@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v2.0",
+  "lastUpdate": "20190529",
+  "gitRepoName": "api_tool_postman",
+  "bookName": "API开发利器：Postman",
+  "bookDescription": "在涉及[HTTP](http://book.crifan.com/books/http_summary/website)方面的后台[REST API](http://book.crifan.com/books/http_restful_api/website)开发时，往往会需要调试API接口。这方面有很多工具，其中最好用的算是接下来要介绍的**Postman**了。"
+}

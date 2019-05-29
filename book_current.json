@@ -1,0 +1,19 @@
+{
+  "title": "API开发利器：Postman",
+  "description": "总结API开发调试利器Postman的用法",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "api_tool_postman"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/api_tool_postman/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/api_tool_postman/pdf/api_tool_postman.pdf"
+    }
+  }
+}

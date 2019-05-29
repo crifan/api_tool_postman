@@ -62,6 +62,6 @@
 
 ![Postman已保存的API接口Tab页](../assets/img/postman_saved_api_tab.png)
 
-> **[warning] 默认不保存返回的Response数据**
+> #### warning::默认不保存返回的Response数据
 > * 直接点击Save去保存，只能保存API本身（的Request请求），不会保存Response的数据
 > * 想要保存Response数据，需要用后面要介绍的 [多个Example](http://book.crifan.com/books/api_tool_postman/website/postman_func_resp/save_multi_example.html)
